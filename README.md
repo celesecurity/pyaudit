@@ -22,7 +22,7 @@ PyAudit é uma ferramenta de auditoria de segurança projetada para sistemas e s
 
 2. Navegue até o diretório do projeto:
 
-   cd secaudit
+   cd pyaudit
 
 3. (Opcional) Crie e ative um ambiente virtual:
 
@@ -33,13 +33,13 @@ PyAudit é uma ferramenta de auditoria de segurança projetada para sistemas e s
    
 4. Torne o script executável:
 
-   chmod +x sec_check.py
+   chmod +x pyaudit.py
 
 ## Uso
 
 1. Para executar a ferramenta, utilize o seguinte comando:
 
-   sudo ./sec_check.py
+   sudo ./pyaudit.py
 
 ## Aviso legal
 
