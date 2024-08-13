@@ -18,7 +18,7 @@ PyAudit é uma ferramenta de auditoria de segurança projetada para sistemas e s
 
 1. Clone este repositório:
 
-   git clone https://github.com/freitasec/secaudit.git
+   git clone https://github.com/freitasec/pyaudit.git
 
 2. Navegue até o diretório do projeto:
 
